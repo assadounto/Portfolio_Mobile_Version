@@ -3,7 +3,7 @@
 # Portfolio_Mobile_Version
 
 >  This project is the Mobile Version skeleton of a final portofolio mobile version project
->  flexbox was used to place most of the secytions in place
+>  flexbox was used to place most of the sections in place
 
 ## Built With
 
