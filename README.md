@@ -12,7 +12,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://https://assadounto.github.io/Portfolio_Mobile_Version/)
+[Live Demo Link](https://assadounto.github.io/Portfolio_Mobile_Version/)
 
 To get a local copy up and running follow these simple example steps.
 
