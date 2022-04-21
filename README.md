@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio_Mobile_Version
 
-> Mobile Version skeleton
+>  This project is the Mobile Version skeleton of a final portofolio mobile version project
+>  flexbox was used to place most of the secytions in place
 
 ## Built With
 
