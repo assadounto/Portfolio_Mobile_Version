@@ -18,7 +18,7 @@ a {
 .logo-placeholder a {
   color: rgb(95, 53, 173);
   padding: 10px 12px;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -26,7 +26,7 @@ a {
 }
 
 .menu {
-  padding: 8px;
+  padding: 12px;
   background-color: blue;
 }
 
@@ -38,7 +38,6 @@ a {
   align-items: flex-start;
   padding: 120px 24px;
   row-gap: 12px;
-  background-image: url("./logos/illustration.png");
   background-position: 100% 55%;
   background-repeat: no-repeat;
 }
@@ -67,6 +66,10 @@ a {
   margin-top: 12px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .Connect {
   position: static;
   width: 117px;
@@ -78,8 +81,4 @@ a {
   font-size: 16px;
   line-height: 24px;
   color: #7f8cff;
-}
-
-ul {
-  list-style-type: none;
 }
