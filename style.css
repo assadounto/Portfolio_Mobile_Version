@@ -34,6 +34,10 @@ img:hover {
   margin-left: 12px;
 }
 
+ul {
+  list-style-type: none;
+}
+
 .logo {
   position: relative;
   left: 12px;
