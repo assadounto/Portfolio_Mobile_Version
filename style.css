@@ -2,16 +2,15 @@
   margin: 0;
   padding: 0;
 }
-
 main {
-  width: 375px;
-  height: 718px;
-  background-color: aqua;
-  background-image: url(/logos/hsm.png);
-}
 
+width: 375px;
+height: 718px;
+background-color: aqua;
+background-image: url(/logos/hsm.png);
+}
 header {
-  display: flex;
+display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #fff;
@@ -20,13 +19,12 @@ header {
 
 a {
   text-decoration: none;
+  
 }
-
 a:hover {
   text-decoration: underline;
 }
-
-img:hover {
+img:hover{
   outline: rgb(42, 80, 204) solid 2px;
 }
 
@@ -42,11 +40,11 @@ img:hover {
   left: 12px;
   top: 10px;
   font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 20px;
-  color: #6070ff;
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+color: #6070FF;
 }
 
 .menu {
@@ -65,42 +63,45 @@ img:hover {
   background-position: 100% 7%;
   background-repeat: no-repeat;
   background-image: url(/logos/hsm.png);
+
+
 }
 
 .primary-text {
   width: 320px;
-  height: 150px;
-  margin-right: 24px;
-  top: 114px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
-  display: flex;
-  align-items: center;
+height: 150px;
+margin-right: 24px;
+top: 114px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+display: flex;
+align-items: center;
+
 }
 
 .content {
   position: static;
-  width: 327px;
-  height: 146px;
-  left: 24px;
-  top: 256px;
-  font-family: 'Poppins';
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
+width: 327px;
+height: 146px;
+left: 24px;
+top: 256px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+
 }
 
 .social-media {
   display: flex;
   justify-content: space-between;
-  width: 180px;
-  margin-top: 12px;
+   width: 180px;
+   margin-top: 12px;
 }
-
 .Connect {
   position: static;
   width: 1170px;
