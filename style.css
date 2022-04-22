@@ -63,7 +63,7 @@ img:hover {
   row-gap: 12px;
   background-position: 100% 7%;
   background-repeat: no-repeat;
-  background-image: url(/logos/hsm.png);
+  background-image: url('/logos/hsm.png');
 }
 
 .primary-text {
