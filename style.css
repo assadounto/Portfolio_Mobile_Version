@@ -2,32 +2,55 @@
   margin: 0;
   padding: 0;
 }
+main {
 
+width: 375px;
+height: 718px;
+background-color: aqua;
+background-image: url(/logos/hsm.png);
+}
 header {
-  display: flex;
+display: flex;
   justify-content: space-between;
   align-items: center;
   background-color: #fff;
   height: 48px;
+  margin left: 24px;
 }
 
 a {
   text-decoration: none;
+  
+}
+a:hover {
+  text-decoration: underline;
+}
+img:hover{
+  outline: rgb(42, 80, 204) solid 2px;
 }
 
-.logo-placeholder a {
-  color: rgb(95, 53, 173);
-  padding: 10px 12px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 24px;
+.logo-placeholder {
+  position: static;
+  width: 100px;
+  height: 40px;
+  margin-left: 12px;
+}
+
+.logo {
+  position: relative;
+  left: 12px;
+  top: 10px;
+  font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 20px;
+color: #6070FF;
 }
 
 .menu {
   padding: 12px;
-  background-color: blue;
+  margin-right: 24px;
 }
 
 .container {
@@ -38,41 +61,52 @@ a {
   align-items: flex-start;
   padding: 120px 24px;
   row-gap: 12px;
-  background-position: 100% 55%;
+  background-position: 100% 7%;
   background-repeat: no-repeat;
+  background-image: url(/logos/hsm.png);
+
+
 }
 
 .primary-text {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 40px;
-  line-height: 52px;
-  color: #ff6b00;
-  position: static;
+  width: 320px;
+height: 150px;
+margin-right: 24px;
+top: 114px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 52px;
+display: flex;
+align-items: center;
+
 }
 
 .content {
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 24px;
-  color: rgb(15, 14, 14);
+  position: static;
+width: 327px;
+height: 146px;
+left: 24px;
+top: 256px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+margin-top: 12px 0px;
+margin left: 24px;
 }
 
 .social-media {
   display: flex;
-  justify-content: space-around;
-  width: 200px;
-  margin-top: 12px;
+  justify-content: space-between;
+   width: 180px;
+   margin-top: 12px;
 }
-
-ul {
-  list-style-type: none;
-}
-
 .Connect {
   position: static;
-  width: 117px;
+  width: 1170px;
   height: 24px;
   left: 0;
   top: 0;
