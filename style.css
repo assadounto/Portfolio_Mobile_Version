@@ -39,7 +39,7 @@ img:hover {
   position: relative;
   left: 12px;
   top: 10px;
-  font-family: "Poppins", san-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
@@ -70,7 +70,7 @@ img:hover {
   height: 150px;
   margin-right: 24px;
   top: 114px;
-  font-family: "Poppins", san-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
@@ -85,7 +85,7 @@ img:hover {
   height: 146px;
   left: 24px;
   top: 256px;
-  font-family: "Poppins", san-serif;
+  font-family: "Poppins", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
