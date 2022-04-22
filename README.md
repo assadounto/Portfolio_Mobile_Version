@@ -1,26 +1,18 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio_Mobile_Version
 
-> Description the project.
-
+>  This project is the Mobile Version skeleton of a final portofolio mobile version project
+>  flexbox was used to place most of the sections in place
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html
+- Css
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+[Live Demo Link](https://assadounto.github.io/Portfolio_Mobile_Version/)
 
 To get a local copy up and running follow these simple example steps.
 
@@ -42,15 +34,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@assadohounto](https://github.com/assadohounto)
+- Twitter: [@adukyerer](https://twitter.com/adukyerer)
 
 ## 🤝 Contributing
 

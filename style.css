@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: auto;
+  background-color: white;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #fff;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+img:hover {
+  outline: rgb(42, 80, 204) solid 2px;
+}
+
+.logo-placeholder {
+  position: static;
+  width: 100px;
+  height: 40px;
+  margin-left: 12px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo {
+  position: relative;
+  left: 12px;
+  top: 10px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 20px;
+  color: #6070ff;
+}
+
+.menu {
+  padding: 12px;
+  margin-right: 24px;
+}
+
+.container {
+  height: 590px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 120px 24px;
+  row-gap: 12px;
+  background-position: 100% 7%;
+  background-repeat: no-repeat;
+  background-image: url("./logos/hsm.png");
+}
+
+.primary-text {
+  width: 320px;
+  height: 150px;
+  margin-right: 24px;
+  top: 114px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  display: flex;
+  align-items: center;
+}
+
+.content {
+  position: static;
+  width: 327px;
+  height: 146px;
+  left: 24px;
+  top: 256px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.social-media {
+  display: flex;
+  justify-content: space-between;
+  width: 180px;
+  margin-top: 12px;
+}
+
+.Connect {
+  position: static;
+  width: 1170px;
+  height: 24px;
+  left: 0;
+  top: 0;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #7f8cff;
+}
