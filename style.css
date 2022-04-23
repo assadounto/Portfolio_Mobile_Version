@@ -56,8 +56,8 @@ ul {
 }
 
 .container {
-  height: 800px;
-  background-color: #fff;
+  height: 500px;
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -70,10 +70,9 @@ ul {
 
 .container2 {
   height: 900px;
-  background-color: #fff;
+  background-color: white;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   padding: 120px 24px;
   row-gap: 12px;
 }
@@ -128,7 +127,7 @@ ul {
   align-items: center;
   padding-top: 120px;
   padding-bottom: 120px;
-  background: #e5e5e5;
+  background: white;
 }
 
 .projects-cards {
@@ -136,6 +135,7 @@ ul {
   grid-template-columns: 100%;
   grid-template-rows: auto auto auto auto;
   row-gap: 80px;
+  background-color: white;
 }
 
 .card {
@@ -208,6 +208,7 @@ ul {
   font-weight: 500;
   font-size: 12px;
   line-height: 16px;
+  color: #6070ff;
 }
 
 .button1 {
@@ -222,12 +223,18 @@ ul {
   line-height: 24px;
   letter-spacing: 0.03em;
   color: #396df2;
+  width: fit-content;
 }
 
 .button1 a:hover {
   background: #fff5e1;
   border: 1px solid #884016;
   color: #c05c22;
+}
+
+.rectangle {
+  position: relative;
+  top: -5px;
 }
 
 .skill-title {
@@ -245,7 +252,6 @@ ul {
 }
 
 .javascript {
-  margin-top: auto;
   width: 303px;
   height: 66.72px;
   background: #f7f7f9;
