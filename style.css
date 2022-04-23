@@ -56,7 +56,7 @@ ul {
 }
 
 .container {
-  height: 2000px;
+  height: 800px;
   background-color: #fff;
   display: flex;
   flex-direction: column;
@@ -68,8 +68,17 @@ ul {
   background-image: url("./logos/hsm.png");
 }
 
+.container2 {
+  height: 900px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 120px 24px;
+  row-gap: 12px;
+}
+
 .primary-text {
-  width: 320px;
   height: 150px;
   margin-right: 24px;
   top: 114px;
@@ -84,7 +93,6 @@ ul {
 
 .content {
   position: static;
-  width: 327px;
   height: 146px;
   left: 24px;
   top: 256px;
@@ -104,7 +112,6 @@ ul {
 
 .Connect {
   position: static;
-  width: 1170px;
   height: 24px;
   left: 0;
   top: 0;
@@ -234,6 +241,7 @@ ul {
   justify-items: center;
   width: 327px;
   height: 72px;
+  margin-left: 20px;
 }
 
 .dropdown {
@@ -242,6 +250,7 @@ ul {
 }
 
 .javascript {
+  margin-top: auto;
   width: 303px;
   height: 66.72px;
   background: #f7f7f9;
