@@ -230,11 +230,6 @@ ul {
   color: #c05c22;
 }
 
-.rectangle {
-  position: relative;
-  top: -5px;
-}
-
 .skill-title {
   display: flex;
   flex-direction: column;
