@@ -42,6 +42,10 @@ To get a local copy up and running follow these simple example steps.
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
+<h3>Contributing members</h3>
+<ul>
+<li> <a href="https://github.com/Profsain">Profsain</a></li>
+<li> <a href="https://github.com/vaderonline">Vishal</a></li>
 
 ## Show your support
 
