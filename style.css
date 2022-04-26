@@ -287,3 +287,7 @@ ul {
   font-size: 20px;
   line-height: 24px;
 }
+.float {
+  list-style: none;
+  
+}
