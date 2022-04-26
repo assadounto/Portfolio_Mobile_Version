@@ -175,7 +175,7 @@ ul {
 }
 
 .card ul {
-  display: flex;
+  float: auto;
   column-gap: 12px;
 }
 
@@ -199,6 +199,7 @@ ul {
 }
 
 .card ul > li {
+  margin-bottom: 8px;
   background: #ebebff;
   border-radius: 8px;
   box-sizing: border-box;
