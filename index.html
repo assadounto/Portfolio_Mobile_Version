@@ -193,14 +193,12 @@
       </section>
 
       <section class="contactSection" id="contactSection">
-        <h1 class="title">Contact Me</h1>
-        <div class="formContainer">
-          <div class="contactIntro">
-            <p class="introText">
-              I'm always interested in hearing about new projects, so if you'd
-              like to chat please get in touch.
+        <h1 class="title4">Contact Me</h1>
+        <p class="introText">
+          If you have an application you are interested in developing, 
+          a feature that you need built or a project that needs coding.
+          I’d love to help with it 
             </p>
-          </div>
           <div class="contactForm">
             <form
               action="https://formspree.io/f/xjvlpydr"
@@ -208,16 +206,19 @@
               method="post"
             >
               <input
-                type="text"
+                type="name"
                 name="user_name"
                 id="user_name"
                 placeholder="Full name"
+                maxlength = "20"
+                required
               />
               <input
                 type="email"
                 name="user_email"
                 id="user_email"
                 placeholder="Email address"
+                required
               />
               <textarea
                 name="message"
@@ -225,13 +226,19 @@
                 cols="30"
                 rows="10"
                 placeholder="Enter Text Here"
+                maxlength="30"
               ></textarea>
-              <button class="button1" type="submit" id="submit">
-                Get in Touch
-              </button>
+              <input
+              type="submit"
+              name="submitbutton"
+              id="submit"
+              class="submitbutton"
+              value="Get in touch"
+              />
+
+            
             </form>
           </div>
-        </div>
       </section>
     </main>
   </body>
