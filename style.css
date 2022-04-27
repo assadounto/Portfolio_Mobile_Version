@@ -291,6 +291,22 @@ ul {
   list-style: none;
   
 }
+
+.contactSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 12px;
+  text-align: center;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
 .introText {
   font-family: 'Inter';
   font-style: normal;
